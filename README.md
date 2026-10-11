@@ -1,20 +1,26 @@
 # Event & Workshop Management API
 
-A REST API for managing events, workshops, users,categories, and event registrations.
+A simple full-stack web application to manage events, workshops, users, categories, and event registrations.
 
-## Technologies
+## Technologies Used
+- React.js
 - Node.js
 - Express.js
 - MySQL
+- Axios
 - JWT
 - bcrypt
-- Postman
 
 ## Features
 - User registration and login
-- JWT authentication
-- Role-based authorization
-- Category management
-- Event management
-- Event registration
-- Search, filtering, pagination and sorting
+- JWT authentication and role-based authorization
+- View available events
+- Register for and cancel events
+- Manage events and categories
+- View and manage users
+- Event search
+
+## Project Structure
+- frontend – React.js
+- backend – Node.js and Express.js
+- database – MySQL
